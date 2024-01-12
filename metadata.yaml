@@ -1,0 +1,44 @@
+_repo: The-god-on-the-36th-floor_72407
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Kastle, Herbert D.
+    aliases:
+    - Castle, Herb
+    - Kastle, Herbert David
+    birthdate: 1924
+    deathdate: 1987
+    gutenberg_agent_id: '26307'
+    url: http://www.gutenberg.org/2009/agents/26307
+description: ''
+gutenberg_issued: '2023-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72407'
+language: en
+pgterms:marc905: 20231125111854kastle
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Offices -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The god on the 36th floor
+url: http://www.gutenberg.org/ebooks/72407
