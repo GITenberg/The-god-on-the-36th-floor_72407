@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 72407-h/images/cover.jpg
 creator:
   author:
     agent_name: Kastle, Herbert D.
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '26307'
     url: http://www.gutenberg.org/2009/agents/26307
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72407#The-god-on-the-36th-floor
 gutenberg_issued: '2023-12-14'
 gutenberg_type: Text
 identifiers:
